@@ -1,4 +1,4 @@
-# Trabajo Prácticas Bucles ,Estructuras y Condicionales
+# Trabajo Prácticas Nº 3 Funciones y Array
 
 ## Descripción 📝
 Este trabajo práctico contiene una serie de ejercicios básicos de **JavaScript** orientados a practicar el uso de **array y funciones**.
