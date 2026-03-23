@@ -5,7 +5,7 @@ Hacer uso de la función Math.random para obtener números aleatorios
   repitiendo 50 veces esta operación.
 */ 
 // Array para contar las apariciones de las sumas (del 2 al 12)
-let resultados = new Array(13).fill(0); //creo un array con 13 posiciones y agregos 0 para que esten defnidos los valores y no de NaN
+const resultados = new Array(13).fill(0); //creo un array con 13 posiciones y agregos 0 para que esten defnidos los valores y no de NaN
 
 // Simular 50 lanzamientos
 for (let i = 0; i < 50; i++) {
