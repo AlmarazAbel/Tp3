@@ -1,13 +1,20 @@
 # Trabajo Prácticas Bucles ,Estructuras y Condicionales
 
 ## Descripción 📝
-Este trabajo práctico contiene una serie de ejercicios básicos de **JavaScript** orientados a practicar el uso de **Bucles y condicionales**.
+Este trabajo práctico contiene una serie de ejercicios básicos de **JavaScript** orientados a practicar el uso de **array y funciones**.
 
 Los ejercicios están organizados por niveles de dificultad y ayudan a comprender conceptos fundamentales de programación.
 
 ---
 
-## Tecnologías utilizadas 📎
+## Algunas Funciones vistas
+-agreagar elementos en el array **unshift()**
+-agregar al final en el array **push()**
+-agregar un elementos en el medio del array **splice*()*
+-modificar un elemento del array
+-eliminar elementos del array **shift()**
+-borrar el ultimo elemento del array **pop()**
+
 - JavaScript
 - HTML (para ejecutar los scripts en el navegador)
 ## Autor
@@ -15,6 +22,6 @@ Trabajo práctico realizado por **Jesus Abel Almaraz**.
 
 ## Pasos parar probar el proyecto📌
 Segui los siguientes pasos en una terminal para probar localmente el proyecto.
-`git clone https://github.com/AlmarazAbel/Tp2.git`
+`https://github.com/AlmarazAbel/Tp3.git`
 
-cd 11-Tp2BuclesEstructurasCondicionales
+cd 12-TP3ArregloyFunciones
